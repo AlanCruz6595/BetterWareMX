@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "Betterware": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Betterware"
+    }
+  },
+  "defaultProject": "Betterware",
+  "cli": {
+    "analytics": "cd204e13-483a-4bc7-b16d-a2f0d96ebeef"
+  }
 }
